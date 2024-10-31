@@ -13,17 +13,13 @@ ul, ol {
 a {
   text-decoration: none;
 }
-.button1 {
-  cursor: pointer;
-background-color: #4D5AE5;
-color: #FFFFFF;
-}
+
 .logo 
   {
     font-family: "Raleway", sans-serif;
       font-weight: 700;
       font-size: 18px;
-      line-height: 1.16667;
+      line-height: 1.17;
       letter-spacing: 0.03em;
       text-transform: uppercase;
       color: #4d5ae5;
@@ -62,4 +58,56 @@ color: #FFFFFF;
 }
 .page-footer {
   background-color: #2e2f42;
+}
+.main-section {
+  background-color: #2e2f42;
+}
+.main-title {
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #fff;
+}
+.button1 {
+  border-radius: 4px;
+    padding: 16px 32px;
+    width: 169px;
+    height: 56px;
+  cursor: pointer;
+box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+  background: #4d5ae5;
+}
+.text-heading-title,
+.img-avatar-heading,
+.img-illustration-heading {
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2e2f42;
+}
+.text-lead,
+.img-avatar-lead,
+.img-illustration-lead,
+.footer-lead {
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+}
+.footer-lead {color: #f4f4fd;}
+.img-avatar {
+  background-color: #f4f4fd;
+}
+.img-avatar-title,
+.img-illustration-title {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
 }
