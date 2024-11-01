@@ -122,6 +122,6 @@ color: #434455;
  .img-illustration-title, .img-avatar-title {
 text-transform: capitalize;
  }
- .img-illustration-list, .img-avatar-list {
+ .img-avatar-list, .img-illustration-list  {
   background-color: #FFFFFF
  }
