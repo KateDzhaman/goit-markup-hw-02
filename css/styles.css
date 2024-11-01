@@ -69,6 +69,7 @@ a {
     font-size: 56px;
     line-height: 1.07;
     letter-spacing: 0.02em;
+    text-align: center;
     color: #fff;
 }
 .main-button {
@@ -121,6 +122,6 @@ color: #434455;
  .img-illustration-title, .img-avatar-title {
 text-transform: capitalize;
  }
- .img-illustration-list {
+ .img-illustration-list, .img-avatar-list {
   background-color: #FFFFFF
  }
